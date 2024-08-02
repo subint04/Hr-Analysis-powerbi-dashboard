@@ -1,5 +1,5 @@
 # Hr-Analysis-powerbi-dashboard
-Develop a Power BI project focused on HR data for a company facing challenges in comprehending their employee data to extract valuable insights. Construct a comprehensive dashboard that includes the following components:
+Developed a Power BI project focused on HR data for a company facing challenges in comprehending their employee data to extract valuable insights. Construct a comprehensive dashboard that includes the following components:
 
 Summary Page:
   - Present a snapshot of key HR metrics.
